@@ -37,9 +37,9 @@ const courses = [
     code: "ENG 1100",
     description: "Fundamentals of English grammar focusing on sentence structure and language elements.",
     category: "English",
-    totalSheets: 1,
+    totalSheets: 2,
     color: "from-purple-600 to-purple-800",
-    lastUpdated: "2024-01-15",
+    lastUpdated: "2024-02-04",
   },
   {
     id: "eng-1203",

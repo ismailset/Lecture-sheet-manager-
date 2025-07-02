@@ -231,6 +231,15 @@ How did the interaction of geographical, cultural, linguistic, and religious fac
         lastUpdated: "2024-01-15",
         fileSize: "1.5 MB",
       },
+      {
+        id: 2,
+        title: "All Materials",
+        description: "Complete collection of all course materials and resources for sentence structure and grammar",
+        driveLink: "https://drive.google.com/drive/folders/1dy3HDWY5ZTDeSmccCXuNyLdIRhR7xCJA",
+        type: "folder",
+        lastUpdated: "2024-02-04",
+        fileSize: "Multiple files",
+      },
     ],
   },
   "eng-1203": {
